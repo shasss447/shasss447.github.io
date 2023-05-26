@@ -1,0 +1,26 @@
+{
+  "basics": {
+    "name": "Shaswat Kumar",
+    "label": "Technicus Appassionatus",
+    "image": "/cover.jpg",
+    "summary": "An ardent coder and fervent developer, I intend to bring ideas to life. I admire anime and immerse myself in captivating narratives and visually stunning universes of the fabulae. Morever, I've just embarked on a blogging journey too. ",
+    "location": {
+      "city": "Mumbai",
+      "region": "India"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "url": "https://github.com/shasss447"
+      },
+      {
+        "network": "Twitter",
+        "url": "https://twitter.com/shaswatkumar447"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/shaswat-kumar-310340232"
+      }
+    ]
+  }
+}
