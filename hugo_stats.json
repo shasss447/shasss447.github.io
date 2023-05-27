@@ -82,7 +82,9 @@
       "prism-dark",
       "prism-light",
       "search__suggestions",
-      "search__text"
+      "search__text",
+      "this-blog-website",
+      "ticket-booker-dapp"
     ]
   }
 }

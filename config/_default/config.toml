@@ -21,9 +21,9 @@ enableGitInfo = true
   # dark or light, defaults to light
   defaultTheme = "dark"
   # gray red green yellow blue purple aqua orange, defaults to blue
-  themeColor = "aqua"
+  themeColor = "purple"
   # soft medium hard, defaults to medium
-  themeContrast = "hard"
+  themeContrast = "soft"
   author = "Shaswat Kumar"
   subtitle = "Technicus Appassionatus"
   description = "Shaswat is a coder and computer enthusiast."
