@@ -19,6 +19,18 @@ Reflecting on the learning outcomes of this project, I can divide them into two 
 You can checkout the repo at - https://github.com/shasss447/Ticket_booker_dapp.git
 
 
+## Bank-Management App
+
+This project is a modest application of C++. It serves as an implementation of my basic understanding of data structures, algorithms, and the STL (Standard Template Library).
+Bank management system, the name itself explains what it does. The application offers two initial options: opening a new account or logging into an existing one. When opening a new account, the user is prompted to provide basic details such as name, age, and phone number, which are then stored in a struct. `Hashing is employed to generate a unique account number, which is stored in an unordered map with the account number as the key and the struct as the value.  Additionally, the data is also stored in a text file. Logging in requires entering the account number and password.
+
+Some noteworthy functions of the system includes money withdrawal, deposit, and transfer. Withdrawal and deposit operations are carried out within the same account, allowing for withdrawing funds as long as the amount does not exceed the available balance, and depositing any desired amount. Transfer functionality enables the transfer of funds to another existing account.
+
+This project has provided me with insights into implementing hashing through a simple hashing function, as well as understanding its integration with unordered maps. Furthermore, it has enhanced my understanding of the basic flow and workings of C++ streams and buffers. Utilizing the functions of `fstream` has expanded my knowledge of file handling, such as reading from and writing to files. `Sstream` has taught me how to manipulate strings according to specific requirements.
+
+You can checkout the repo at - https://github.com/shasss447/Bank_Management.git
+
+
 ## This blog website
 
 I always had a desire to create my own website to share my thoughts and experiences, but I never got around to it. So, this vacation I was fixed on making a one and, I came across my friend's [personal blog website](https://navyanshmahla.github.io/), which inspired me greatly. The very next thing I did was message him to inquire about how he built it and started searching on my own.
@@ -30,3 +42,4 @@ Following the theme's documentation, I installed it and turned to YouTube for so
 Throughout this journey, I acquired knowledge about [Markup](https://www.markdownguide.org/) languages, YAML, the workflow of static websites, and various other web development concepts.
 
 You can checkout the repo at - https://github.com/shasss447/shasss447.github.io.git
+

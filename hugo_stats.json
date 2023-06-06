@@ -6,6 +6,7 @@
       "aside",
       "body",
       "button",
+      "code",
       "div",
       "footer",
       "h1",
@@ -25,6 +26,7 @@
       "p",
       "path",
       "script",
+      "strong",
       "style",
       "svg",
       "title",
@@ -38,6 +40,7 @@
       "dark--hidden",
       "icon",
       "icon-tabler",
+      "icon-tabler-mail",
       "icon-tabler-menu-2",
       "icon-tabler-moon",
       "icon-tabler-sun",
@@ -67,15 +70,25 @@
       "pagination",
       "post",
       "post-content",
+      "post-content__read-more",
       "post-header",
       "post-heading__anchor",
       "post-meta",
+      "post-tag",
+      "post-tags",
       "search",
       "search__suggestions--hidden",
       "sidebar",
-      "theme__toggle"
+      "sidebar__heading",
+      "social-share",
+      "social-share__heading",
+      "social-share__item",
+      "theme__toggle",
+      "toc"
     ],
     "ids": [
+      "TableOfContents",
+      "bank-management-app",
       "get-in-touch",
       "menu",
       "prism-dark",
@@ -83,7 +96,8 @@
       "search__suggestions",
       "search__text",
       "this-blog-website",
-      "ticket-booker-dapp"
+      "ticket-booker-dapp",
+      "ticket-booker-dapp-1"
     ]
   }
 }
