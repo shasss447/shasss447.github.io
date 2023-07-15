@@ -89,6 +89,7 @@
     "ids": [
       "TableOfContents",
       "bank-management-app",
+      "enigma-escape",
       "get-in-touch",
       "menu",
       "prism-dark",
@@ -96,8 +97,7 @@
       "search__suggestions",
       "search__text",
       "this-blog-website",
-      "ticket-booker-dapp",
-      "ticket-booker-dapp-1"
+      "ticket-booker-dapp"
     ]
   }
 }

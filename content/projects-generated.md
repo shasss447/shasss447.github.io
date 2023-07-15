@@ -22,7 +22,7 @@ You can checkout the repo at - https://github.com/shasss447/Ticket_booker_dapp.g
 ## Bank-Management App
 
 This project is a modest application of C++. It serves as an implementation of my basic understanding of data structures, algorithms, and the STL (Standard Template Library).
-Bank management system, the name itself explains what it does. The application offers two initial options: opening a new account or logging into an existing one. When opening a new account, the user is prompted to provide basic details such as name, age, and phone number, which are then stored in a struct. `Hashing`s is employed to generate a unique account number, which is stored in an unordered map with the account number as the key and the struct as the value.  Additionally, the data is also stored in a text file. Logging in requires entering the account number and password.
+Bank management system, the name itself explains what it does. The application offers two initial options: opening a new account or logging into an existing one. When opening a new account, the user is prompted to provide basic details such as name, age, and phone number, which are then stored in a struct. `Hashing` is employed to generate a unique account number, which is stored in an unordered map with the account number as the key and the struct as the value.  Additionally, the data is also stored in a text file. Logging in requires entering the account number and password.
 
 Some noteworthy functions of the system includes money withdrawal, deposit, and transfer. Withdrawal and deposit operations are carried out within the same account, allowing for withdrawing funds as long as the amount does not exceed the available balance, and depositing any desired amount. Transfer functionality enables the transfer of funds to another existing account.
 
@@ -43,3 +43,17 @@ Throughout this journey, I acquired knowledge about [Markup](https://www.markdow
 
 You can checkout the repo at - https://github.com/shasss447/shasss447.github.io.git
 
+
+## Enigma-Escape
+
+A maze adventure game developed in `C++` with `SDL-2`. Explore a complex maze filled with challenging obstacles and a car character waiting to be driven.
+
+Navigate the maze using keyboard controls and maneuver the car through the intricate pathways. Light textures represent blocks to avoid, while dark textures indicate safe paths to follow. Whole map is created with the help of [SDL-2](https://www.libsdl.org/) while the textures are added with the help of [SDL-2-IMAGE](https://wiki.libsdl.org/SDL2_image/FrontPage). Retrieve coordinates of any blocks by just clicking on it.
+
+But what's the need of the coordinates??
+
+Well, if you cannot find the path, let my mighty `A* Algorithm` do it for you. This algorithm uses `Dijkstra Algorithm` and `Heuristic Search`, harnessing the prowess of both the well known path-finding tools to make itself the ultimate path-finding weapon.
+
+Enigma Escape features a well-organized code structure with header and class files, ensuring maintainability and scalability. The game window has a resolution of 1000x600 pixels, divided into a grid of 30 rows and 50 columns, with each cell measuring 20x20 pixels.
+
+You can checkout the repo at - https://github.com/shasss447/Enigma-Escape.git
